@@ -1,0 +1,46 @@
+.wether_smcs_container {
+    position: relative;
+    width: 920px;
+    padding: 1px 1px 67px 1px;
+
+}
+.wether_smcs_container div {
+    height: 300px;
+    padding: 11px 3px 3px 12px;
+}
+
+.wether_smcs_column-left {
+    width: 60%;
+    left: 0;
+    /*background: #00F;*/
+    position: absolute;
+}
+/*.wether_smcs_column-center {*/
+    /*width: 34%;*/
+    /*background: #933;*/
+    /*margin-left: 33%;*/
+    /*position: absolute;*/
+/*}*/
+.wether_smcs_column-right {
+    width: 40%;
+    right: 0;
+    position: absolute;
+    /*background: #999;*/
+}
+.wether_smcs_title {
+    font-size: 16px;
+    font-weight: 700;
+}
+/*.wether_smcs_column-right {*/
+ /**/
+/*}*/
+.w_img
+{
+    background-image: url("w.im.png");
+    background-repeat: no-repeat;
+}
+.wether_smcs_cont
+{
+    font-size: 29px;
+    color: rgb(129, 132, 132);
+}
