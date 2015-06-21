@@ -15,19 +15,14 @@ how to install wether_smcs
 
  * 
  * eg.
- * <?php
-        $this->widget('ext.weather_smcs.weather_smcs',
- *
-        array(
- *
-        'country'=>'srilanka',
- *
-        'city'=>'ratnapura',
- *
-        )
-
-);
- * ?>
+  <?php
+                $this->widget('ext.weather_smcs.weather_smcs',
+                array(
+                'country'=>'srilanka',
+                'city'=>'ratnapura',
+                )
+        );
+ ?>
  * 
  * PHP version 5.3
  * 
