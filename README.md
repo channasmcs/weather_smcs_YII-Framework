@@ -8,14 +8,11 @@ how to install wether_smcs
  * FileDoc: 
  * Widget for wether smcs.
  * !!! ATTENTION !!!
- *  
  * Usage:
- * 
  * 1. Copy wether_smcs directory into the extensions directory
- * 
-
- * 
+   
  * eg.
+ * ```
   <?php
                 $this->widget('ext.weather_smcs.weather_smcs',
                 array(
@@ -24,6 +21,7 @@ how to install wether_smcs
                 )
         );
  ?>
+ ```
  * 
  * PHP version 5.3
  * 
